@@ -5,10 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Owner/Documents/GitHub/SapceInvaders/Content/Assets/gamejam-sapce-startmenu-bgm.uasset",
 				"C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/PlayerShip_BP.uasset",
 				"C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/NewBlueprint.uasset",
-				"C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/Input/NewInputAction.uasset",
 				"C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/Interfaces/Sapce_Interface.uasset",
 				"C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/Bomb_BP.uasset",
 				"C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/Assets/Enemies/enemyBlack1.uasset",
@@ -83,7 +81,10 @@
 				"C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/PlayerPawn_BP.uasset",
 				"C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/Assets/playerShip3_red.uasset",
 				"C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/Sapce_GM.uasset",
-				"C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/Sapce_PC.uasset"
+				"C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/Sapce_PC.uasset",
+				"C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/Game.umap",
+				"C:/Users/Owner/Documents/GitHub/SapceInvaders/Content/Assets/gamejam-sapce-startmenu-bgm.uasset",
+				"C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/Input/NewInputAction.uasset"
 			]
 		}
 	]
