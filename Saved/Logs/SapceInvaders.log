@@ -1236,3 +1236,143 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2023.07.07-22.39.23:129][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 215 ms)
 [2023.07.07-22.39.23:134][722]AssetCheck: New page: Asset Save: PlayerPawn_BP
 [2023.07.07-22.39.23:134][722]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PlayerPawn_BP.PlayerPawn_BP
+[2023.07.07-22.41.42:007][879]LogViewport: Scene viewport resized to 1014x333, mode Windowed.
+[2023.07.07-22.43.35:330][702]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.07-22.43.35:349][703]LogShaderCompilers: Display: ================================================
+[2023.07.07-22.43.35:349][703]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.07-22.43.35:349][703]LogShaderCompilers: Display: Total job queries 10, among them cache hits 2 (20.00%)
+[2023.07.07-22.43.35:349][703]LogShaderCompilers: Display: Tracking 8 distinct input hashes that result in 6 distinct outputs (75.00%)
+[2023.07.07-22.43.35:349][703]LogShaderCompilers: Display: RAM used: 151.80 KiB of 819.20 MiB budget. Usage: 0.02%
+[2023.07.07-22.43.35:349][703]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.07-22.43.35:349][703]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.07.07-22.43.35:349][703]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.07.07-22.43.35:349][703]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.07.07-22.43.35:349][703]LogShaderCompilers: Display: ================================================
+[2023.07.07-22.43.45:045][841]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-22.43.45:045][841]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.43.45:045][841]MaterialEditorStats: Shader Count: 0
+[2023.07.07-22.43.45:079][843]MaterialEditorStats: Base pass shader: 214 instructions
+[2023.07.07-22.43.45:079][843]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.07.07-22.43.45:079][843]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.07-22.43.45:079][843]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.43.45:079][843]MaterialEditorStats: Shader Count: 4
+[2023.07.07-22.43.47:450][113]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-22.43.47:450][113]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.43.47:450][113]MaterialEditorStats: Shader Count: 0
+[2023.07.07-22.43.47:486][115]MaterialEditorStats: Base pass shader: 214 instructions
+[2023.07.07-22.43.47:486][115]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.07.07-22.43.47:486][115]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.07-22.43.47:486][115]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.43.47:486][115]MaterialEditorStats: Shader Count: 4
+[2023.07.07-22.44.13:349][151]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-22.44.13:349][151]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.44.13:349][151]MaterialEditorStats: Shader Count: 0
+[2023.07.07-22.44.14:108][227]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.07.07-22.44.14:108][227]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-22.44.14:108][227]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.44.14:108][227]MaterialEditorStats: Shader Count: 3
+[2023.07.07-22.44.14:213][239]MaterialEditorStats: Base pass shader: 214 instructions
+[2023.07.07-22.44.14:213][239]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.07.07-22.44.14:213][239]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.07-22.44.14:213][239]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.44.14:213][239]MaterialEditorStats: Shader Count: 4
+[2023.07.07-22.44.15:487][390]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-22.44.15:487][390]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.44.15:487][390]MaterialEditorStats: Shader Count: 0
+[2023.07.07-22.44.15:515][392]MaterialEditorStats: Base pass shader: 214 instructions
+[2023.07.07-22.44.15:515][392]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.07.07-22.44.15:515][392]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.07-22.44.15:515][392]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.44.15:515][392]MaterialEditorStats: Shader Count: 4
+[2023.07.07-22.44.18:046][678]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-22.44.18:046][678]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.44.18:046][678]MaterialEditorStats: Shader Count: 0
+[2023.07.07-22.44.18:592][731]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.07.07-22.44.18:592][731]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-22.44.18:592][731]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.44.18:592][731]MaterialEditorStats: Shader Count: 3
+[2023.07.07-22.44.18:689][742]MaterialEditorStats: Base pass shader: 214 instructions
+[2023.07.07-22.44.18:689][742]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.07.07-22.44.18:689][742]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.07-22.44.18:689][742]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.44.18:689][742]MaterialEditorStats: Shader Count: 4
+[2023.07.07-22.44.22:881][225]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-22.44.22:881][225]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.44.22:881][225]MaterialEditorStats: Shader Count: 0
+[2023.07.07-22.44.22:899][227]MaterialEditorStats: Base pass shader: 214 instructions
+[2023.07.07-22.44.22:899][227]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.07.07-22.44.22:899][227]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.07-22.44.22:899][227]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.44.22:899][227]MaterialEditorStats: Shader Count: 2
+[2023.07.07-22.44.23:889][342]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-22.44.23:889][342]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.44.23:889][342]MaterialEditorStats: Shader Count: 0
+[2023.07.07-22.44.23:908][344]MaterialEditorStats: Base pass shader: 214 instructions
+[2023.07.07-22.44.23:908][344]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.07.07-22.44.23:908][344]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.07-22.44.23:908][344]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.44.23:908][344]MaterialEditorStats: Shader Count: 2
+[2023.07.07-22.44.24:209][377]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-22.44.24:209][377]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.44.24:209][377]MaterialEditorStats: Shader Count: 0
+[2023.07.07-22.44.24:226][379]MaterialEditorStats: Base pass shader: 214 instructions
+[2023.07.07-22.44.24:226][379]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.07.07-22.44.24:226][379]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.07-22.44.24:226][379]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.44.24:226][379]MaterialEditorStats: Shader Count: 4
+[2023.07.07-22.44.25:125][484]LogSlate: Window 'Color Picker' being destroyed
+[2023.07.07-22.44.39:429][164]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-22.44.39:429][164]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.44.39:429][164]MaterialEditorStats: Shader Count: 0
+[2023.07.07-22.44.39:484][166]MaterialEditorStats: Base pass shader: 214 instructions
+[2023.07.07-22.44.39:484][166]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.07.07-22.44.39:484][166]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.07-22.44.39:484][166]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.44.39:484][166]MaterialEditorStats: Shader Count: 4
+[2023.07.07-22.44.45:616][870]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-22.44.45:616][870]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.44.45:616][870]MaterialEditorStats: Shader Count: 0
+[2023.07.07-22.44.45:655][872]MaterialEditorStats: Base pass shader: 214 instructions
+[2023.07.07-22.44.45:655][872]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.07.07-22.44.45:655][872]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.07-22.44.45:655][872]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.44.45:655][872]MaterialEditorStats: Shader Count: 4
+[2023.07.07-22.44.48:474][203]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.07-22.44.48:474][203]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.44.48:474][203]MaterialEditorStats: Shader Count: 0
+[2023.07.07-22.44.48:519][205]MaterialEditorStats: Base pass shader: 214 instructions
+[2023.07.07-22.44.48:519][205]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.07.07-22.44.48:519][205]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.07-22.44.48:519][205]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.07-22.44.48:519][205]MaterialEditorStats: Shader Count: 4
+[2023.07.07-22.45.00:839][985]LogSlate: Window 'Message' being destroyed
+[2023.07.07-22.45.00:846][985]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/GameBackdrop.GameBackdrop
+(Selecting 'No' will cause all changes to be lost!)
+[2023.07.07-22.45.00:893][985]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-22.45.00:893][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.45.00:911][985]LogViewport: Scene viewport resized to 1141x713, mode Windowed.
+[2023.07.07-22.45.00:931][986]LogViewport: Scene viewport resized to 1141x705, mode Windowed.
+[2023.07.07-22.45.01:069][987]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2023.07.07-22.45.25:982][675]BlueprintLog: New page: Compile PlayerPawn_BP
+[2023.07.07-22.45.26:015][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.07.07-22.47.31:806][342]BlueprintLog: New page: Compile PlayerPawn_BP
+[2023.07.07-22.47.31:842][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.07.07-22.53.59:982][382]BlueprintLog: New page: Compile PlayerPawn_BP
+[2023.07.07-22.54.00:016][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.07.07-22.54.30:461][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.07.07-22.54.30:462][246]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Game' took 0.018
+[2023.07.07-22.54.30:462][246]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/PlayerPawn_BP] ([2] browsable assets)...
+[2023.07.07-22.54.30:556][246]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerPawn_BP.PlayerPawn_BP]
+[2023.07.07-22.54.30:556][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerPawn_BP]
+[2023.07.07-22.54.30:556][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn_BP" FILE="C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Saved/Autosaves/Game/PlayerPawn_BP_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.07.07-22.54.30:561][246]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerPawn_BP_Auto2
+[2023.07.07-22.54.30:562][246]LogSavePackage: Moving 'C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Saved/PlayerPawn_BP_Auto23ACD65C348972469C69E84A29AF3DBDB.tmp' to 'C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Saved/Autosaves/Game/PlayerPawn_BP_Auto2.uasset'
+[2023.07.07-22.54.30:562][246]LogFileHelpers: Auto-saving content packages took 0.100
+[2023.07.07-22.56.07:482][634]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.56.07:531][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn_BP" FILE="C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/PlayerPawn_BP.uasset" SILENT=true
+[2023.07.07-22.56.07:535][634]LogSavePackage: Moving output files for package: /Game/PlayerPawn_BP
+[2023.07.07-22.56.07:536][634]LogSavePackage: Moving 'C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Saved/PlayerPawn_BP361DCA224101A7109EB398B30F95771A.tmp' to 'C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/PlayerPawn_BP.uasset'
+[2023.07.07-22.56.07:543][634]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 275 ms)
+[2023.07.07-22.56.07:548][634]AssetCheck: New page: Asset Save: PlayerPawn_BP
+[2023.07.07-22.56.07:548][634]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PlayerPawn_BP.PlayerPawn_BP
