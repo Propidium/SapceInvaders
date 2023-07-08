@@ -3855,3 +3855,78 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.08-20.13.32:231][445]LogSlate: Window 'Laser_BP' being destroyed
 [2023.07.08-20.13.32:240][445]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
 [2023.07.08-20.13.32:240][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.14.17:400][953]LogViewport: Scene viewport resized to 1526x782, mode Windowed.
+[2023.07.08-20.14.17:446][955]LogViewport: Scene viewport resized to 1526x761, mode Windowed.
+[2023.07.08-20.14.17:478][957]LogViewport: Scene viewport resized to 1526x742, mode Windowed.
+[2023.07.08-20.14.17:504][959]LogViewport: Scene viewport resized to 1526x719, mode Windowed.
+[2023.07.08-20.14.17:523][960]LogViewport: Scene viewport resized to 1526x691, mode Windowed.
+[2023.07.08-20.14.17:547][961]LogViewport: Scene viewport resized to 1526x651, mode Windowed.
+[2023.07.08-20.14.17:569][962]LogViewport: Scene viewport resized to 1526x616, mode Windowed.
+[2023.07.08-20.14.17:601][964]LogViewport: Scene viewport resized to 1526x579, mode Windowed.
+[2023.07.08-20.14.17:628][966]LogViewport: Scene viewport resized to 1526x562, mode Windowed.
+[2023.07.08-20.14.17:654][968]LogViewport: Scene viewport resized to 1526x544, mode Windowed.
+[2023.07.08-20.14.17:679][970]LogViewport: Scene viewport resized to 1526x530, mode Windowed.
+[2023.07.08-20.14.17:705][972]LogViewport: Scene viewport resized to 1526x525, mode Windowed.
+[2023.07.08-20.14.18:048][ 12]LogViewport: Scene viewport resized to 1526x521, mode Windowed.
+[2023.07.08-20.14.18:093][ 14]LogViewport: Scene viewport resized to 1526x508, mode Windowed.
+[2023.07.08-20.14.18:124][ 16]LogViewport: Scene viewport resized to 1526x495, mode Windowed.
+[2023.07.08-20.14.18:150][ 18]LogViewport: Scene viewport resized to 1526x485, mode Windowed.
+[2023.07.08-20.14.18:176][ 20]LogViewport: Scene viewport resized to 1526x476, mode Windowed.
+[2023.07.08-20.14.18:201][ 22]LogViewport: Scene viewport resized to 1526x473, mode Windowed.
+[2023.07.08-20.14.18:227][ 24]LogViewport: Scene viewport resized to 1526x470, mode Windowed.
+[2023.07.08-20.14.18:302][ 32]LogViewport: Scene viewport resized to 1526x468, mode Windowed.
+[2023.07.08-20.14.18:528][ 58]LogViewport: Scene viewport resized to 1526x469, mode Windowed.
+[2023.07.08-20.14.18:546][ 59]LogViewport: Scene viewport resized to 1526x473, mode Windowed.
+[2023.07.08-20.14.18:599][ 61]LogViewport: Scene viewport resized to 1526x483, mode Windowed.
+[2023.07.08-20.14.18:624][ 63]LogViewport: Scene viewport resized to 1526x486, mode Windowed.
+[2023.07.08-20.14.18:650][ 65]LogViewport: Scene viewport resized to 1526x490, mode Windowed.
+[2023.07.08-20.14.33:731][589]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.07.08-20.14.33:763][589]LogContentBrowser: Deferred new asset file creation: NewBlueprint1
+[2023.07.08-20.14.33:766][589]LogContentBrowser: Creating deferred item: NewBlueprint1
+[2023.07.08-20.14.33:778][590]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint1).
+[2023.07.08-20.14.33:846][598]LogContentBrowser: Attempting asset rename: NewBlueprint1 -> NewBlueprint1
+[2023.07.08-20.14.33:854][598]LogContentBrowser: End creating deferred item NewBlueprint1
+[2023.07.08-20.14.42:726][655]LogContentBrowser: Attempting asset rename: NewBlueprint1 -> Barrier_BP
+[2023.07.08-20.14.42:811][655]LogMetaData: Removing '/Game/Barrier_BP.Barrier_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/NewBlueprint1.PackageMetaData'
+[2023.07.08-20.14.42:812][655]LogMetaData: Removing '/Game/Barrier_BP.SKEL_Barrier_BP_C:UserConstructionScript' ref from Metadata '/Game/NewBlueprint1.PackageMetaData'
+[2023.07.08-20.14.42:812][655]LogMetaData: Removing '/Game/Barrier_BP.SKEL_Barrier_BP_C' ref from Metadata '/Game/NewBlueprint1.PackageMetaData'
+[2023.07.08-20.14.42:812][655]LogMetaData: Removing '/Game/Barrier_BP.Barrier_BP_C' ref from Metadata '/Game/NewBlueprint1.PackageMetaData'
+[2023.07.08-20.14.42:812][655]LogMetaData: Removing '/Game/Barrier_BP.Barrier_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/NewBlueprint1.PackageMetaData'
+[2023.07.08-20.14.42:812][655]LogMetaData: Removing '/Game/Barrier_BP.Barrier_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/NewBlueprint1.PackageMetaData'
+[2023.07.08-20.14.42:812][655]LogMetaData: Removing '/Game/Barrier_BP.Barrier_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/NewBlueprint1.PackageMetaData'
+[2023.07.08-20.14.42:817][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.14.42:870][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Barrier_BP" FILE="C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/Barrier_BP.uasset" SILENT=true
+[2023.07.08-20.14.42:872][655]LogSavePackage: Moving output files for package: /Game/Barrier_BP
+[2023.07.08-20.14.42:873][655]LogSavePackage: Moving 'C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Saved/Barrier_BPD1E42B7A4A3D095A8CAEFE98ECB6B714.tmp' to 'C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/Barrier_BP.uasset'
+[2023.07.08-20.14.42:881][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 480 ms)
+[2023.07.08-20.14.42:914][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.07.08-20.14.42:936][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.07.08-20.14.42:954][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.07.08-20.14.42:958][655]AssetCheck: New page: Asset Save: Barrier_BP
+[2023.07.08-20.14.42:958][655]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Barrier_BP.Barrier_BP
+[2023.07.08-20.14.45:989][ 16]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Barrier_BP.Barrier_BP
+[2023.07.08-20.14.45:990][ 16]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.08-20.14.45:990][ 16]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-20.14.46:146][ 16]LogViewport: Scene viewport resized to 636x381, mode Windowed.
+[2023.07.08-20.14.57:847][272]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2023.07.08-20.18.22:120][367]LogSlate: Window 'Barrier_BP' being destroyed
+[2023.07.08-20.18.22:129][367]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-20.18.22:129][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.18.25:095][712]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Sapce_GM.Sapce_GM
+[2023.07.08-20.18.25:095][712]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.08-20.18.25:095][712]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-20.22.09:433][984]LogSlate: Took 0.004247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.07.08-20.22.11:857][264]BlueprintLog: New page: Compile Sapce_GM
+[2023.07.08-20.22.11:892][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.07.08-20.24.49:359][816]BlueprintLog: New page: Compile Sapce_GM
+[2023.07.08-20.24.49:394][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.07.08-20.24.51:245][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.24.51:297][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sapce_GM" FILE="C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/Sapce_GM.uasset" SILENT=true
+[2023.07.08-20.24.51:304][ 25]LogSavePackage: Moving output files for package: /Game/Sapce_GM
+[2023.07.08-20.24.51:304][ 25]LogSavePackage: Moving 'C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Saved/Sapce_GM4FC47B124182988DF6EAEBA5B15B53BE.tmp' to 'C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/Sapce_GM.uasset'
+[2023.07.08-20.24.51:311][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 545 ms)
+[2023.07.08-20.24.51:315][ 25]AssetCheck: New page: Asset Save: Sapce_GM
+[2023.07.08-20.24.51:315][ 25]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Sapce_GM.Sapce_GM
+[2023.07.08-20.24.53:284][254]LogSlate: Window 'Sapce_GM' being destroyed
+[2023.07.08-20.24.53:294][254]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-20.24.53:294][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
