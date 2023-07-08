@@ -3692,3 +3692,166 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.08-19.36.43:158][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.07.08-19.36.43:185][112]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
 [2023.07.08-19.36.43:185][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-19.37.25:158][626]LogViewport: Scene viewport resized to 1014x567, mode Windowed.
+[2023.07.08-19.37.26:792][797]LogViewport: Scene viewport resized to 1526x882, mode Windowed.
+[2023.07.08-19.37.45:820][ 72]LogViewport: Scene viewport resized to 1526x877, mode Windowed.
+[2023.07.08-19.37.45:861][ 74]LogViewport: Scene viewport resized to 1526x867, mode Windowed.
+[2023.07.08-19.37.45:888][ 76]LogViewport: Scene viewport resized to 1526x854, mode Windowed.
+[2023.07.08-19.37.45:911][ 78]LogViewport: Scene viewport resized to 1526x833, mode Windowed.
+[2023.07.08-19.37.45:934][ 80]LogViewport: Scene viewport resized to 1526x796, mode Windowed.
+[2023.07.08-19.37.45:957][ 82]LogViewport: Scene viewport resized to 1526x747, mode Windowed.
+[2023.07.08-19.37.45:981][ 84]LogViewport: Scene viewport resized to 1526x694, mode Windowed.
+[2023.07.08-19.37.46:006][ 86]LogViewport: Scene viewport resized to 1526x639, mode Windowed.
+[2023.07.08-19.37.46:031][ 88]LogViewport: Scene viewport resized to 1526x591, mode Windowed.
+[2023.07.08-19.37.46:054][ 90]LogViewport: Scene viewport resized to 1526x549, mode Windowed.
+[2023.07.08-19.37.46:078][ 92]LogViewport: Scene viewport resized to 1526x510, mode Windowed.
+[2023.07.08-19.37.46:101][ 94]LogViewport: Scene viewport resized to 1526x488, mode Windowed.
+[2023.07.08-19.37.46:126][ 96]LogViewport: Scene viewport resized to 1526x469, mode Windowed.
+[2023.07.08-19.37.46:142][ 97]LogViewport: Scene viewport resized to 1526x456, mode Windowed.
+[2023.07.08-19.37.46:169][ 99]LogViewport: Scene viewport resized to 1526x439, mode Windowed.
+[2023.07.08-19.37.46:194][101]LogViewport: Scene viewport resized to 1526x424, mode Windowed.
+[2023.07.08-19.37.46:217][103]LogViewport: Scene viewport resized to 1526x408, mode Windowed.
+[2023.07.08-19.37.46:233][104]LogViewport: Scene viewport resized to 1526x400, mode Windowed.
+[2023.07.08-19.37.46:260][106]LogViewport: Scene viewport resized to 1526x388, mode Windowed.
+[2023.07.08-19.37.46:276][107]LogViewport: Scene viewport resized to 1526x382, mode Windowed.
+[2023.07.08-19.37.46:302][109]LogViewport: Scene viewport resized to 1526x376, mode Windowed.
+[2023.07.08-19.37.46:341][113]LogViewport: Scene viewport resized to 1526x375, mode Windowed.
+[2023.07.08-19.37.46:373][116]LogViewport: Scene viewport resized to 1526x374, mode Windowed.
+[2023.07.08-19.37.46:397][118]LogViewport: Scene viewport resized to 1526x377, mode Windowed.
+[2023.07.08-19.37.46:413][119]LogViewport: Scene viewport resized to 1526x379, mode Windowed.
+[2023.07.08-19.37.46:432][120]LogViewport: Scene viewport resized to 1526x380, mode Windowed.
+[2023.07.08-19.37.46:457][122]LogViewport: Scene viewport resized to 1526x382, mode Windowed.
+[2023.07.08-19.37.46:473][123]LogViewport: Scene viewport resized to 1526x384, mode Windowed.
+[2023.07.08-19.37.46:507][126]LogViewport: Scene viewport resized to 1526x387, mode Windowed.
+[2023.07.08-19.37.46:531][128]LogViewport: Scene viewport resized to 1526x390, mode Windowed.
+[2023.07.08-19.37.46:556][130]LogViewport: Scene viewport resized to 1526x393, mode Windowed.
+[2023.07.08-19.37.46:571][131]LogViewport: Scene viewport resized to 1526x395, mode Windowed.
+[2023.07.08-19.37.46:589][132]LogViewport: Scene viewport resized to 1526x396, mode Windowed.
+[2023.07.08-19.37.46:615][134]LogViewport: Scene viewport resized to 1526x400, mode Windowed.
+[2023.07.08-19.37.46:638][136]LogViewport: Scene viewport resized to 1526x403, mode Windowed.
+[2023.07.08-19.37.46:671][139]LogViewport: Scene viewport resized to 1526x404, mode Windowed.
+[2023.07.08-19.37.46:735][146]LogViewport: Scene viewport resized to 1526x406, mode Windowed.
+[2023.07.08-19.37.46:827][156]LogViewport: Scene viewport resized to 1526x407, mode Windowed.
+[2023.07.08-20.07.06:868][891]LogDerivedDataCache: C:/Users/Oliver/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.058 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2125 files in 2952 folders with total size 56 MiB.
+[2023.07.08-20.11.06:159][275]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Laser_BP.Laser_BP
+[2023.07.08-20.11.06:159][275]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.08-20.11.06:159][275]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-20.11.21:760][571]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2023.07.08-20.12.20:439][164]BlueprintLog: New page: Compile Laser_BP
+[2023.07.08-20.12.20:496][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.07.08-20.12.22:545][372]LogViewport: Scene viewport resized to 636x381, mode Windowed.
+[2023.07.08-20.12.24:583][520]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.08-20.12.24:589][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.08-20.12.24:589][520]PIE: New page: PIE session: Menu (8 Jul 2023, 22:12:24)
+[2023.07.08-20.12.24:589][520]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Menu
+[2023.07.08-20.12.24:590][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000752s)
+[2023.07.08-20.12.24:590][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu.Menu to /Game/UEDPIE_0_Menu.Menu (0.000781s)
+[2023.07.08-20.12.24:590][520]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.08-20.12.24:590][520]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-20.12.24:590][520]LogAIModule: Creating AISystem for world Menu
+[2023.07.08-20.12.24:590][520]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2023.07.08-20.12.24:611][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.07.08-20.12.24:613][520]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.07.08-20.12.24:614][520]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.08-20.12.24:614][520]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.08-20.12.24:614][520]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.08-20.12.24:614][520]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.08-20.12.24:614][520]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.08-20.12.24:614][520]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.08-20.12.24:614][520]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.08-20.12.24:614][520]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.08-20.12.24:614][520]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.08-20.12.24:614][520]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.08-20.12.24:614][520]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.08-20.12.24:615][520]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.08-20.12.24:638][520]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Razer Kraken 7.1 V2)
+[2023.07.08-20.12.24:639][520]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.08-20.12.24:639][520]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.08-20.12.24:639][520]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.08-20.12.24:640][520]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.07.08-20.12.24:640][520]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.07.08-20.12.24:641][520]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.07.08-20.12.24:641][520]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.07.08-20.12.24:641][520]LogInit: FAudioDevice initialized with ID 23.
+[2023.07.08-20.12.24:641][520]LogAudio: Display: Audio Device (ID: 23) registered with world 'Menu'.
+[2023.07.08-20.12.24:641][520]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2023.07.08-20.12.24:644][520]LogLoad: Game class is 'Menu_GM_C'
+[2023.07.08-20.12.24:644][520]LogWorld: Bringing World /Game/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2023.07.08-21.12.24
+[2023.07.08-20.12.24:645][520]LogWorld: Bringing up level for play took: 0.000324
+[2023.07.08-20.12.24:646][520]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.07.08-20.12.24:648][520]PIE: Server logged in
+[2023.07.08-20.12.24:648][520]PIE: Play in editor total start time 0.059 seconds.
+[2023.07.08-20.12.24:678][520]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.12.24:679][520]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.12.24:679][520]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.12.24:679][520]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.12.24:680][520]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.12.24:680][520]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.12.24:680][520]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.12.25:615][629]LogNet: Browse: /Game/Game
+[2023.07.08-20.12.25:615][629]LogLoad: LoadMap: /Game/Game
+[2023.07.08-20.12.25:615][629]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Menu
+[2023.07.08-20.12.25:616][629]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-20.12.25:616][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.12.25:660][629]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.08-20.12.25:662][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.07.08-20.12.25:664][629]LogAudio: Display: Audio Device (ID: 23) registered with world 'Game'.
+[2023.07.08-20.12.25:664][629]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.08-20.12.25:664][629]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-20.12.25:664][629]LogAIModule: Creating AISystem for world Game
+[2023.07.08-20.12.25:664][629]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2023.07.08-20.12.25:664][629]LogLoad: Game class is 'Sapce_GM_C'
+[2023.07.08-20.12.25:665][629]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.07.08-21.12.25
+[2023.07.08-20.12.25:665][629]LogWorld: Bringing up level for play took: 0.000303
+[2023.07.08-20.12.25:665][629]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.07.08-20.12.25:666][629]LogLoad: Took 0.051439 seconds to LoadMap(/Game/Game)
+[2023.07.08-20.12.25:671][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.12.25:672][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.12.25:672][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.12.25:672][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.12.25:673][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.12.25:673][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.12.25:673][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.12.26:472][722]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.12.27:711][869]LogViewport: Scene viewport resized to 1526x410, mode Windowed.
+[2023.07.08-20.12.27:741][871]LogViewport: Scene viewport resized to 1526x428, mode Windowed.
+[2023.07.08-20.12.27:762][872]LogViewport: Scene viewport resized to 1526x456, mode Windowed.
+[2023.07.08-20.12.27:792][874]LogViewport: Scene viewport resized to 1526x503, mode Windowed.
+[2023.07.08-20.12.27:820][876]LogViewport: Scene viewport resized to 1526x542, mode Windowed.
+[2023.07.08-20.12.27:849][878]LogViewport: Scene viewport resized to 1526x567, mode Windowed.
+[2023.07.08-20.12.27:877][880]LogViewport: Scene viewport resized to 1526x588, mode Windowed.
+[2023.07.08-20.12.27:906][882]LogViewport: Scene viewport resized to 1526x613, mode Windowed.
+[2023.07.08-20.12.27:934][884]LogViewport: Scene viewport resized to 1526x642, mode Windowed.
+[2023.07.08-20.12.27:963][886]LogViewport: Scene viewport resized to 1526x668, mode Windowed.
+[2023.07.08-20.12.27:992][888]LogViewport: Scene viewport resized to 1526x696, mode Windowed.
+[2023.07.08-20.12.28:020][890]LogViewport: Scene viewport resized to 1526x729, mode Windowed.
+[2023.07.08-20.12.28:049][892]LogViewport: Scene viewport resized to 1526x758, mode Windowed.
+[2023.07.08-20.12.28:077][894]LogViewport: Scene viewport resized to 1526x777, mode Windowed.
+[2023.07.08-20.12.28:113][897]LogViewport: Scene viewport resized to 1526x786, mode Windowed.
+[2023.07.08-20.12.31:494][296]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.12.36:521][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.12.42:323][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-20.12.42:323][574]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.07.08-20.12.42:323][574]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-20.12.42:323][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.12.42:328][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.08-20.12.42:331][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.12.42:350][574]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.08-20.12.42:350][574]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2023.07.08-20.12.42:351][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.07.08-20.12.42:352][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.07.08-20.12.42:356][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-20.12.42:358][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.07.08-20.12.42:370][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.12.42:370][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.12.42:415][577]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.07.08-20.13.31:006][311]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.13.31:034][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Laser_BP" FILE="C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/Laser_BP.uasset" SILENT=true
+[2023.07.08-20.13.31:042][311]LogSavePackage: Moving output files for package: /Game/Laser_BP
+[2023.07.08-20.13.31:042][311]LogSavePackage: Moving 'C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Saved/Laser_BP2CD74E41497FE870CA2B1B82DEF41DCF.tmp' to 'C:/Users/Oliver/Documents/Unreal Projects/SapceInvaders/Content/Laser_BP.uasset'
+[2023.07.08-20.13.31:048][311]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 416 ms)
+[2023.07.08-20.13.31:053][311]AssetCheck: New page: Asset Save: Laser_BP
+[2023.07.08-20.13.31:053][311]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Laser_BP.Laser_BP
+[2023.07.08-20.13.32:231][445]LogSlate: Window 'Laser_BP' being destroyed
+[2023.07.08-20.13.32:240][445]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-20.13.32:240][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
